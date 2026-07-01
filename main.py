@@ -16,8 +16,8 @@ TICKET_CATEGORY_ID = 1520734487107866624
 LOG_CHANNEL_ID = 1520428694152155166
 STAFF_ROLE_ID = 1373912127362039869
 
-THUMBNAIL = "https://cdn.discordapp.com/attachments/1519426746041110791/1520049279408799816/unfortune_pp.jpg?ex=6a411935&is=6a3fc7b5&hm=40aa141983c744859563dee20a2f4cf3a909f69c615ad597ec7f4a5b1b83a68e"
-BANNER = "https://cdn.discordapp.com/attachments/1519426746041110791/1520049279773708429/unfortune_banner.webp?ex=6a411935&is=6a3fc7b5&hm=371e186a5325dda82c27bac1a22e14de376abb65d825a0e651d6670be746cba3"
+THUMBNAIL = "https://cdn.discordapp.com/attachments/1521926866599022882/1521930044992389270/unfortune_pp.jpg?ex=6a469f4e&is=6a454dce&hm=cc06c865c5ad59f93395c954d1f950c36329d29ed8cda0843629553fe24061ea&"
+BANNER = "https://cdn.discordapp.com/attachments/1521926866599022882/1521929978772721885/unfortune_banner.webp?ex=6a469f3f&is=6a454dbf&hm=ed6a4004c4e66f10c3364fe6068e17bc847091dc5e4d14b0df7c8fa82621fd2b&"
 
 intents = discord.Intents.default()
 intents.members = True
